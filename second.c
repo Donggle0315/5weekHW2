@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	printf("It has many conflicts\n");
+
+	printf("It has no conflict\n");
 	
 	
 	return 0;
